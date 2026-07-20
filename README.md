@@ -2,7 +2,7 @@
 
 **IT Support → Software Development · Cybersecurity**
 
-📍 Adana, Turkey · Remote-ready · **Full CV → [codemush.com/alaaddincv](https://codemush.com/alaaddincv)** **Projects → [codemush.com/alaaddincv](https://codemush.com/alaaddincv-project)**
+📍 Adana, Turkey · Remote-ready · **Full CV → [codemush.com/alaaddincv](https://codemush.com/alaaddincv)** **Projects → [codemush.com/alaaddincv-projects](https://codemush.com/alaaddincv-projects)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alaaddin--turgay-blue?logo=linkedin)](https://linkedin.com/in/alaaddin-turgay)
 [![Email](https://img.shields.io/badge/Email-alaaddin01turgay@gmail.com-red?logo=gmail)](mailto:alaaddin01turgay@gmail.com)
