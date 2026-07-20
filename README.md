@@ -84,5 +84,3 @@ Today I work at **[CodeMush](https://codemush.com)** on project-based software d
 🏢 **Company:** [codemush.com](https://codemush.com)
 
 ---
-
-*Open to IT, software development, and cybersecurity roles — including remote opportunities in Germany and the EU.*
