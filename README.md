@@ -1,67 +1,99 @@
-# Hi, I'm Alaaddin
+# Hi, I'm Alaaddin Turgay 👋
 
-**IT Specialist · Software Developer · Cybersecurity**
+**IT Support → Software Development · Cybersecurity**
 
-Project-based developer at **CodeMush** — security testing, vulnerability analysis, and software delivery. Previously **IT support** at a Casper authorized dealer (servers, networks, remote support).
+📍 Adana, Turkey · Remote-ready · **Full CV → [codemush.com/alaaddincv](https://codemush.com/alaaddincv)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaaddin-turgay)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaaddin01turgay@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aladinturgay)
-
----
-
-### Focus
-
-**Cybersecurity**
-
-![XSS](https://img.shields.io/badge/XSS-red?style=flat-square)
-![SSRF](https://img.shields.io/badge/SSRF-orange?style=flat-square)
-![SQLi](https://img.shields.io/badge/SQLi-critical?style=flat-square)
-![Recon](https://img.shields.io/badge/Recon-blue?style=flat-square)
-![Port_Scan](https://img.shields.io/badge/Port_Scan-0e7490?style=flat-square)
-![Banner_Grab](https://img.shields.io/badge/Banner_Grab-0e7490?style=flat-square)
-![Vuln_Analysis](https://img.shields.io/badge/Vuln_Analysis-purple?style=flat-square)
-
-**IT Infrastructure**
-
-![SysAdmin](https://img.shields.io/badge/SysAdmin-2563eb?style=flat-square)
-![Networking](https://img.shields.io/badge/Networking-2563eb?style=flat-square)
-![Remote_Support](https://img.shields.io/badge/Remote_Support-2563eb?style=flat-square)
-![Hardware](https://img.shields.io/badge/Hardware-2563eb?style=flat-square)
-![Help_Desk](https://img.shields.io/badge/Help_Desk-2563eb?style=flat-square)
-
-**Software**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alaaddin--turgay-blue?logo=linkedin)](https://linkedin.com/in/alaaddin-turgay)
+[![Email](https://img.shields.io/badge/Email-alaaddin01turgay@gmail.com-red?logo=gmail)](mailto:alaaddin01turgay@gmail.com)
+[![Website](https://img.shields.io/badge/CodeMush-codemush.com-green)](https://codemush.com)
 
 ---
 
-### Projects
+## About Me
 
-#### Cybersecurity
+I started in **IT support and infrastructure** — servers, networks, help desk, Windows environments — and gradually moved into **software development and web security**.
 
-- [**netrecon**](https://github.com/aladinturgay/netrecon) — Port scanner · banner grabbing · JSON/HTML reports
-- [**banner-grabbing--port-scanner**](https://github.com/aladinturgay/banner-grabbing--port-scanner) — Early banner grabbing tool
+Today I work at **[CodeMush](https://codemush.com)** on project-based software delivery, web application security testing, and Python security tooling. My background in field IT helps me build practical, reliable solutions — not just code, but systems that work in real business environments.
 
-→ [**More**](cybersecurity/)
-
-#### IT Infrastructure
-
-- [**sys-audit**](https://github.com/aladinturgay/sys-audit) — Collects local system info (OS, RAM, disk, network)
-
-→ [**More**](it-infrastructure/)
-
-#### Software
-
-- [**IsTakipSistemi**](https://github.com/aladinturgay/IsTakipSistemi) — Work & task tracking
-- [**React-projects**](https://github.com/aladinturgay/React-projects) — React experiments
-
-→ [**More**](software/)
+> 📄 **Detailed CV, experience & contact:** [codemush.com/alaaddincv](https://codemush.com/alaaddincv)
 
 ---
 
-Turkish (native) · English (B1)
+## Career Journey (2020 → 2026)
+
+| Period | Focus | Highlights |
+|--------|-------|------------|
+| **2020 – 2021** | IT foundations → software upskilling | Built on IT support experience; completed **Windows Server**, **PHP**, and **JavaScript** training; started independent web projects |
+| **2022** | IT Support @ **Oviled Light** | E-commerce IT support, infrastructure maintenance; first GitHub web projects ([proje-2](https://github.com/aladinturgay/proje-2)) |
+| **2023 – 2024** | IT Support @ **Mycom / Casper** + active coding | Server/network setup, remote help desk; learned **React** & modern JS — [Movie-app-JS](https://github.com/aladinturgay/Movie-app-JS), [React-projects](https://github.com/aladinturgay/React-projects) |
+| **2025 – 2026** | Software Developer @ **CodeMush** | End-to-end web projects, vulnerability analysis, Python security tools — [NetRecon](https://github.com/aladinturgay/netrecon), [SysAudit](https://github.com/aladinturgay/sys-audit), business apps |
+
+---
+
+## Skills
+
+### IT & Infrastructure
+`Windows Server` · `Active Directory` · `System Administration` · `Network Setup` · `TCP/IP` · `DNS` · `DHCP` · `VPN` · `Firewall` · `Remote Support` · `Help Desk` · `Hardware Setup` · `Endpoint Security`
+
+### Cybersecurity
+`Web Security Testing` · `Vulnerability Analysis` · `Penetration Testing` · `Port Scanning` · `Banner Grabbing` · `Reconnaissance` · `OWASP` · `Security Reporting`
+
+### Software Development
+`Python` · `PHP` · `JavaScript` · `React` · `HTML` · `CSS` · `MySQL` · `Git` · `REST APIs` · `Web Applications`
+
+### Tools
+`Microsoft Teams` · `Zoom` · `Jira` · `GitHub`
+
+---
+
+## Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**NetRecon**](https://github.com/aladinturgay/netrecon) | Python | TCP port scanner with banner grabbing and JSON/HTML report export |
+| [**SysAudit**](https://github.com/aladinturgay/sys-audit) | Python | Local system information collector for IT inventory workflows |
+| [**IsTakipSistemi**](https://github.com/aladinturgay/IsTakipSistemi) | Web | Work and task tracking application |
+| [**faturatakip**](https://github.com/aladinturgay/faturatakip) | Web | Invoice tracking application |
+| [**React-projects**](https://github.com/aladinturgay/React-projects) | React | Small React projects from learning phase (2023) |
+| [**Movie-app-JS**](https://github.com/aladinturgay/Movie-app-JS) | JavaScript | Movie listing app — early web development project |
+
+---
+
+## Work Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **Software Developer** (Project-Based) | [CodeMush](https://codemush.com) | Dec 2025 – Present |
+| **IT Support Specialist** | Mycom Bilgisayar (Casper Authorized Dealer) | Feb 2023 – Present |
+| **IT Support Specialist** | Oviled Light / Uslu İthalat | Apr 2022 – Oct 2022 |
+| **IT Support Specialist** | Vardabit Bilişim | Jan 2018 – Sep 2018 |
+| **IT & Web Support** | Ceyto Yapı | Mar 2017 – Nov 2017 |
+
+---
+
+## Certifications
+
+- Windows Server & System Administration — Udemy
+- Hacking Databases & Information Gathering — Udemy
+- PHP & Database Expertise — Önder Bilgisayar
+- JavaScript Training — BT Akademi
+
+---
+
+## Languages
+
+🇹🇷 **Turkish** — Native · 🇬🇧 **English** — B1 (CEFR)
+
+---
+
+## Contact
+
+📧 **Email:** alaaddin01turgay@gmail.com  
+📄 **CV:** [codemush.com/alaaddincv](https://codemush.com/alaaddincv)  
+💼 **LinkedIn:** [linkedin.com/in/alaaddin-turgay](https://linkedin.com/in/alaaddin-turgay)  
+🏢 **Company:** [codemush.com](https://codemush.com)
+
+---
+
+*Open to IT, software development, and cybersecurity roles — including remote opportunities in Germany and the EU.*
