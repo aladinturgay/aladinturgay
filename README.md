@@ -20,17 +20,6 @@ Today I work at **[CodeMush](https://codemush.com)** on project-based software d
 
 ---
 
-## Career Journey (2020 → 2026)
-
-| Period | Focus | Highlights |
-|--------|-------|------------|
-| **2020 – 2021** | IT foundations → software upskilling | Built on IT support experience; completed **Windows Server**, **PHP**, and **JavaScript** training; started independent web projects |
-| **2022** | IT Support @ **Oviled Light** | E-commerce IT support, infrastructure maintenance; first GitHub web projects ([proje-2](https://github.com/aladinturgay/proje-2)) |
-| **2023 – 2024** | IT Support @ **Mycom / Casper** + active coding | Server/network setup, remote help desk; learned **React** & modern JS — [Movie-app-JS](https://github.com/aladinturgay/Movie-app-JS), [React-projects](https://github.com/aladinturgay/React-projects) |
-| **2025 – 2026** | Software Developer @ **CodeMush** | End-to-end web projects, vulnerability analysis, Python security tools — [NetRecon](https://github.com/aladinturgay/netrecon), [SysAudit](https://github.com/aladinturgay/sys-audit), business apps |
-
----
-
 ## Skills
 
 ### IT & Infrastructure
