@@ -2,8 +2,6 @@
 
 **IT Support → Software Development · Cybersecurity**
 
-📍 Adana, Turkey · Remote-ready · **Full CV → [codemush.com/alaaddincv](https://codemush.com/alaaddincv)** **Projects → [codemush.com/alaaddincv-projects](https://codemush.com/alaaddincv-projects)**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alaaddin--turgay-blue?logo=linkedin)](https://linkedin.com/in/alaaddin-turgay)
 [![Email](https://img.shields.io/badge/Email-alaaddin01turgay@gmail.com-red?logo=gmail)](mailto:alaaddin01turgay@gmail.com)
 [![Website](https://img.shields.io/badge/CodeMush-codemush.com-green)](https://codemush.com)
@@ -16,7 +14,6 @@ I started in **IT support and infrastructure** — servers, networks, help desk,
 
 Today I work at **[CodeMush](https://codemush.com)** on project-based software delivery, web application security testing, and Python security tooling. My background in field IT helps me build practical, reliable solutions — not just code, but systems that work in real business environments.
 
-> 📄 **Detailed CV, experience & contact:** [codemush.com/alaaddincv](https://codemush.com/alaaddincv)
 
 ---
 
@@ -79,7 +76,6 @@ Today I work at **[CodeMush](https://codemush.com)** on project-based software d
 ## Contact
 
 📧 **Email:** alaaddin01turgay@gmail.com  
-📄 **CV:** [codemush.com/alaaddincv](https://codemush.com/alaaddincv)  
 💼 **LinkedIn:** [linkedin.com/in/alaaddin-turgay](https://linkedin.com/in/alaaddin-turgay)  
 🏢 **Company:** [codemush.com](https://codemush.com)
 
