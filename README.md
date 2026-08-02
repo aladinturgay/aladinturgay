@@ -37,6 +37,7 @@ Today I work at **[CodeMush](https://codemush.com)** on project-based software d
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [**ClientHub**](https://github.com/aladinturgay/clienthub) | React · FastAPI · JWT | Client project tracker with auth and REST API |
 | [**NetRecon**](https://github.com/aladinturgay/netrecon) | Python | TCP port scanner with banner grabbing and JSON/HTML report export |
 | [**SysAudit**](https://github.com/aladinturgay/sys-audit) | Python | Local system information collector for IT inventory workflows |
 | [**IsTakipSistemi**](https://github.com/aladinturgay/IsTakipSistemi) | Web | Work and task tracking application |
